@@ -2,6 +2,10 @@
 
 Video editor automation
 
+### Requirements
+1. Nodejs
+2. FFMPEG
+
 ### Steps
 
 1. **Clone this Repository:**
