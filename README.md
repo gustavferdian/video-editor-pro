@@ -7,7 +7,7 @@ Video editor automation
 1. **Clone this Repository:**
 
    ```bash
-   git clone https://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@github.com/wahdalo/video-editor-pro.git
+   git clone https://github.com/wahdalo/video-editor-pro.git
    ```
    ```bash
    cd video-editor-pro
