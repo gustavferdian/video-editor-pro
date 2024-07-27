@@ -21,7 +21,7 @@ Video editor automation
 3. **Copy Youtube Cookies:**
 
    - Login to new account youtube.
-   - Use the ["Export cookies JSON file for Puppeteer"](https://chromewebstore.google.com/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg?utm_source=ext_app_menu) extension to copy your cookies.
+   - Use the ["Copy cookies"](https://chromewebstore.google.com/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg?utm_source=ext_app_menu) extension to copy your cookies.
    - Paste the cookies you have copied into the /data/cookies.json file
 
 4. **Change the URL Target:**
